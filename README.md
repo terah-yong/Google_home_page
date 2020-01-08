@@ -1,0 +1,1 @@
+For this mini-project, I’ll be building a Google homepage. though the links don’t go anywhere and the search box doesn’t do anything when i submit it. The goal is to learn about how elements get placed on the page and roughly how they get styled and aligned. 
